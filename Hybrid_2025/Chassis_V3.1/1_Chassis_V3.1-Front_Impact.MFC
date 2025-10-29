@@ -1,0 +1,16 @@
+[StartTime]
+1_Chassis_V3.1-Front_Impact.MFC=
+[SolverState]
+1_Chassis_V3.1-Front_Impact.MFC=2
+[MainFrame]
+1_Chassis_V3.1-Front_Impact.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+1_Chassis_V3.1-Front_Impact.MFC=No
+[SolverType]
+1_Chassis_V3.1-Front_Impact.MFC=Linear Analysis
+[StudyType]
+1_Chassis_V3.1-Front_Impact.MFC=0
+[StudyName]
+1_Chassis_V3.1-Front_Impact.MFC=Front_Impact
+[Solver]
+1_Chassis_V3.1-Front_Impact.MFC=Sparse

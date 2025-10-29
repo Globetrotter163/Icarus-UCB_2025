@@ -1,0 +1,16 @@
+[StartTime]
+1_Chassis_V2.1-Roll Cage.MFC=1s
+[SolverState]
+1_Chassis_V2.1-Roll Cage.MFC=2
+[MainFrame]
+1_Chassis_V2.1-Roll Cage.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+1_Chassis_V2.1-Roll Cage.MFC=No
+[SolverType]
+1_Chassis_V2.1-Roll Cage.MFC=Linear Analysis
+[StudyType]
+1_Chassis_V2.1-Roll Cage.MFC=0
+[StudyName]
+1_Chassis_V2.1-Roll Cage.MFC=Roll Cage
+[Solver]
+1_Chassis_V2.1-Roll Cage.MFC=Sparse

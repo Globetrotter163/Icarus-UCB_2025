@@ -1,0 +1,4 @@
+Tienes que copiar esta carpeta en la siguiente ruta:
+
+
+C:\ProgramData\SOLIDWORKS\SOLIDWORKS 2024\lang\english\weldement profiles

@@ -1,0 +1,16 @@
+[StartTime]
+1_Chassis_V2.1-Front Torsion.MFC=
+[SolverState]
+1_Chassis_V2.1-Front Torsion.MFC=2
+[MainFrame]
+1_Chassis_V2.1-Front Torsion.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+1_Chassis_V2.1-Front Torsion.MFC=No
+[SolverType]
+1_Chassis_V2.1-Front Torsion.MFC=Linear Analysis
+[StudyType]
+1_Chassis_V2.1-Front Torsion.MFC=0
+[StudyName]
+1_Chassis_V2.1-Front Torsion.MFC=Front Torsion
+[Solver]
+1_Chassis_V2.1-Front Torsion.MFC=Sparse
